@@ -75,3 +75,9 @@ df_final_sales_por_nivel = resultados[['level', 'level_id', 'sales']].reset_inde
 df_sales_nivel_ordenado = df_final_sales_por_nivel.sort_values(by = 'sales', ascending = False)
 
 print(df_sales_nivel_ordenado)
+
+#Ventas por nivel
+ventas_nivel = df_final_sales_por_nivel.groupby('level').sales.sum()
+ventas_nivel_ordenado = ventas_nivel.reset_index()
+
+print(ventas_nivel_ordenado)
