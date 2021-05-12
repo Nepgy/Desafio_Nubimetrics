@@ -26,9 +26,8 @@ except FileExistsError:
     print(carpeta_correspondiente + " ya existe")
 
 #Escribimos el .json en la carpeta
-archivoJson = open(carpeta_correspondiente + "/" + "MLA1055.json", "x")
+archivoJson = open(carpeta_correspondiente + "\\" + "MLA1055.json", "x")
 archivoJson.write(str(datos))
 archivoJson.close()
-
 
 
