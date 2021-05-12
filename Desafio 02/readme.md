@@ -1,4 +1,4 @@
-El ejercicio está resuelto en el archivo '2_desafio.py'.
+El ejercicio está resuelto en el archivo 'desafio_2.py'.
 Lo que genera es una carpeta con el formato NombreApi+Formato+año+mes+dia
 donde dentro contiene un archivo .json sacado de un API de Mercado Libre
 

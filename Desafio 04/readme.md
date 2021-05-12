@@ -1,4 +1,4 @@
-La resolucion se encuentra en el archivo 4_desafio.py y los archivos
+La resolucion se encuentra en el archivo desafio_4.py y los archivos
 sales.parquet y currenciesClean.csv en la carpeta de dependencias
 El archivo devuelve un archivo .parquet con la tasa de conversion.
 

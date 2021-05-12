@@ -1,4 +1,4 @@
-La resolucion se encuentre en el archivo 3_desafio.py
+La resolucion se encuentre en el archivo desafio_3.py
 Toma el archivo currenciesRaw de la carpeta de dependencias para operar
 y devuelve un archivo tipo CSV como resultado.
 

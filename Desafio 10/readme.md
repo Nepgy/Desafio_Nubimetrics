@@ -1,4 +1,4 @@
-La resolucion del desafio se encuentra en el archivo 10_desafio.sql
+La resolucion del desafio se encuentra en el archivo desafio_10.sql
 El input de la query es una tabla con 6 filas con el promedio de 
 los impuestos por pais.
 

@@ -1,4 +1,4 @@
-La resolucion del desafio se encuentra en el archivo 5_desafio.py
+La resolucion del desafio se encuentra en el archivo desafio_5.py
 Al igual que el desafio 4, tiene de dependencias los archivos sales.parquet
 y currenciesClean.csv.
 El output del es un dataframe con ['row_key', 'item_id', 'title', 'sales'] como columnas.
