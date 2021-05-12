@@ -1,4 +1,4 @@
-La resolucion se encuentra en el archivo 7_desafio.py
+La resolucion se encuentra en el archivo desafio_7.py
 Este devuelve una lista con todos los path desde el primero del mes hasta el dia que 
 se pasa como parametro.
 

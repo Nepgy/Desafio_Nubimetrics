@@ -1,4 +1,4 @@
-La resolucion del desafio se encuentra en el archivo 6_Desafio.py
+La resolucion del desafio se encuentra en el archivo desafio_6.py
 El output son los dataframe con 'level', 'level_id', 'sales' y 'level' sum('sales')
 
 Para la documentacion completa, ir al siguiente link:

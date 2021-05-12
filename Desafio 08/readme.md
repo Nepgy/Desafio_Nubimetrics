@@ -1,4 +1,4 @@
-La resolucion se encuentra en el archivo 8_desafio.py
+La resolucion se encuentra en el archivo desafio_8.py
 El output es una lista con los path de los dias anteriores al ingresado como parametro
 
 La documentacion completa se encuentra en:
