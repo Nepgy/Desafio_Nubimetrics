@@ -3,6 +3,7 @@ La resolución del desafió junior 2021 entregado por Nubimetrics
 
 
 Las resoluciones se encuentran separadas por carpeta.
+Todos los test se encuentran en la carpeta 'test'
 
 
 Documentacion:
